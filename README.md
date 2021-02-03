@@ -2,7 +2,7 @@
 <html>
 <font size="10"> <p> Natural Aromactic Products</p></font>
 <hr color="black">
-<marquee behavior alternative width-40% <font size="6"> bienvenidos a Natural Aromactic Products> </font></marquee>
+<marquee behavior alternative width-40% <font size="6"> bienvenidos a Natural Aromactic Products </font></marquee>
 <br>
 <p><font size="4"> En esta empresa hacemos produtos con aromas y esencias naturales para un uso muy satisfatorio tanto como para el cliente como para nosotros, somo capaces de hacer un producto sut&iacutel para que tu como cliente estes comodo y satisfecho </p></font>
 <p><font size="4"> Nosotros somos una empresa que desde el 2001 hemos evolucionado tanto en mejoras como calidad nuestra empresa fue fundda en el 1999 por nuestra fundadora Danorby Isabel Urbaez Rodr&iacute quien con sus compañeros fundaron nuestra empresa llamada productos caseros nuestro primer producto a la venta fue una crema hidratadora en el 2000 que tubo una gran promosion tanto como artistas, comediantes, prensentadores entre otros dieron una gran promosion a nuestro producto a principios del 2001 vimos que todos estan tan interesados que sacamos una linea de produtos llamada natural aromactic products y desde ese entonces fuimos reconocidos por ese nombre en el 2005 cambiamos el nombre por NATURAL AROMACTIC PRODUCTS. </font></p>
